@@ -5,3 +5,4 @@
 - Snapshot
 - Pausable
 - Permit
+- Votes
